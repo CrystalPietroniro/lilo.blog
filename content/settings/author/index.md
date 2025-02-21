@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Crystal Celeste Marcelina"
-image = ""
+image = "/media/pool.jpg"
 url = "/about/"
 +++
